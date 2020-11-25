@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Non mollit",
+    "content": "Tempor pariatur laboris sunt excepteur exercitation veniam cillum dolore et est aute mollit tempor deserunt",
+    "image": "../images/placement-area-1.png"
+  },
+  {
+    "id": "2",
+    "title": "Sunt nostrud",
+    "content": "Cillum lorem qui qui lorem nulla nulla consequat culpa est ipsum veniam irure ullamco tempor",
+    "image": "../images/placement-area-2.png"
+  },
+  {
+    "id": "3",
+    "title": "Deserunt ea",
+    "content": "Aliquip adipisicing excepteur nulla laboris reprehenderit lorem fugiat culpa reprehenderit ipsum amet",
+    "image": "../images/placement-area-3.png"
+  },
+  {
+    "id": "4",
+    "title": "Esse eu",
+    "content": "Id eu laboris do veniam culpa do nulla irure eiusmod nulla voluptate consequat mollit in",
+    "image": "../images/placement-area-4.png"
+  }
+]
